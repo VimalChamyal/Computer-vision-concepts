@@ -15,3 +15,5 @@ The 2nd image (dark image) is a little complex, the image has got the user's mob
 <p> See the image here (we will turn it into a binary image) </p>
 <img src="./dark_image.jpg" width="300"/>
 </div>
+
+Find the source code <a href = "cv_concepts.ipynb" > here </a> or in the cv_concepts.ipynb file
