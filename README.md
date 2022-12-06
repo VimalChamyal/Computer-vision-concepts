@@ -1,6 +1,6 @@
 # Computer-vision-in-action
 
-## Image processing in action
+## 1. Image processing in action
 
 In this section I am trying to process an image. The 1st image (clear image) as it's name suggests is a clearer image upon which I've applied simple thresholding to generate a binary image
 
