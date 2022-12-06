@@ -10,6 +10,8 @@ In this section I am trying to process an image. The 1st image (clear image) as 
 </div>
  
 The 2nd image (dark image) is a little complex, the image has got the user's mobile shadow who was trying to click this picture on his/her phone. Using the simple thresholding method we weren't getting the required binary image hence I used the adaptive thresholding method to generate the best possible binary image
-
-
  
+<div>
+<p> See the image here (we will turn it into a binary image) </p>
+<img src="./dark_image.jpg" width="300"/>
+</div>
